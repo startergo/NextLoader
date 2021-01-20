@@ -94,7 +94,6 @@
 [Components]
   NextLoaderPkg/loader.inf
   NextLoaderPkg/gptsync.inf
-  NextLoaderPkg/filesystems/btrfs.inf
   NextLoaderPkg/filesystems/ext2.inf
   NextLoaderPkg/filesystems/ext4.inf
   NextLoaderPkg/filesystems/reiserfs.inf
