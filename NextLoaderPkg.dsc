@@ -94,12 +94,12 @@
   CompilerIntrinsicsLib|ArmPkg/Library/CompilerIntrinsicsLib/CompilerIntrinsicsLib.inf
 
 [Components]
-  efi/loader.inf
-  efi/gptsync.inf
-  efi/filesystems/btrfs.inf
-  efi/filesystems/ext2.inf
-  efi/filesystems/ext4.inf
-  efi/filesystems/reiserfs.inf
-  efi/filesystems/hfs.inf
-  efi/filesystems/iso9660.inf
-  efi/filesystems/ntfs.inf
+  NextLoaderPkg/loader.inf
+  NextLoaderPkg/gptsync.inf
+  NextLoaderPkg/filesystems/btrfs.inf
+  NextLoaderPkg/filesystems/ext2.inf
+  NextLoaderPkg/filesystems/ext4.inf
+  NextLoaderPkg/filesystems/reiserfs.inf
+  NextLoaderPkg/filesystems/hfs.inf
+  NextLoaderPkg/filesystems/iso9660.inf
+  NextLoaderPkg/filesystems/ntfs.inf
