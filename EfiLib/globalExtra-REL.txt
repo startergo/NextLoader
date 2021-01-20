@@ -10,6 +10,6 @@ DebugLog (
 #if NextLoader_DEBUG == 0
   #define MsgLog(...)
 #else
-  #define MsgLog(...)  DebugLog(REFIT_DEBUG, __VA_ARGS__)
+  #define MsgLog(...)  DebugLog(NextLoader_DEBUG, __VA_ARGS__)
 #endif
 
