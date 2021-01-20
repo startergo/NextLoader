@@ -72,8 +72,6 @@
   HobLib|MdePkg/Library/DxeHobLib/DxeHobLib.inf
   BaseStackCheckLib|MdePkg/Library/BaseStackCheckLib/BaseStackCheckLib.inf
 
-  MemLogLib|NextLoaderPkg/Library/MemLogLib/MemLogLib.inf
-
   # Added by dakanji (https://sourceforge.net/u/dakanji/profile) from OpenCore
     OcConsoleLib|OpenCorePkg/Library/OcConsoleLib/OcConsoleLib.inf
     FrameBufferBltLib|MdeModulePkg/Library/FrameBufferBltLib/FrameBufferBltLib.inf
