@@ -72,7 +72,7 @@
   HobLib|MdePkg/Library/DxeHobLib/DxeHobLib.inf
   BaseStackCheckLib|MdePkg/Library/BaseStackCheckLib/BaseStackCheckLib.inf
 
-  MemLogLib|RefindPlusPkg/Library/MemLogLib/MemLogLib.inf
+  MemLogLib|NextLoaderPkg/Library/MemLogLib/MemLogLib.inf
 
   # Added by dakanji (https://sourceforge.net/u/dakanji/profile) from OpenCore
     OcConsoleLib|OpenCorePkg/Library/OcConsoleLib/OcConsoleLib.inf
